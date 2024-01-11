@@ -1,0 +1,48 @@
+body{
+   background-image: url(https://e0.pxfuel.com/wallpapers/998/833/desktop-wallpaper-game-iphone-apple-cellphone-screen-best-i-graffiti-iphone-game-iphone-abstract-iphone-gaming-graffiti.jpg);
+    background-size: cover;
+    height: 120vh;
+    color: white;
+}
+h1{
+    text-align: center;
+    font: bold;
+}
+.images{
+    text-align: center;
+    border-radius: 30px;
+    padding-top: 50px;
+}
+.icon{
+    height: 80px;
+    width: 80px;
+}
+.image-button{
+    background-color:transparent;
+    border: 7px solid white;
+    border-radius: 100px;
+    margin-right: 15px;
+    height: 180px;
+    width: 180px;
+}
+.user{
+    text-align: center;
+    color:white;
+    font-size: 40px;
+    font:  bolder;
+    
+}
+.exit-game{
+    text-align: center;
+}
+.button {
+    background-color:transparent;
+    height: 100px;
+    width: 500px;
+    font-size: 45px;
+    border:solid white;
+    color:white;
+}
+.button:hover{
+    cursor: pointer;
+}
